@@ -1,7 +1,7 @@
 import numpy as np
 
 def SAW():
-    n = 500
+    n = 666
     n1, n2, n3, n4=[], [], [], []
     x = np.zeros(n+1, dtype=int)
     y = np.zeros(n+1, dtype=int)
